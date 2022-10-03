@@ -1,5 +1,5 @@
 *{
-    margin: 25;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
@@ -31,7 +31,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #09090c;
+    background-color: #63B3ED;
     color: #FFFFFF;
     gap: 10px;
     padding: .5rem;
@@ -95,7 +95,7 @@ footer{
     display: flex;
     justify-content: space-between;
     padding: 1rem;
-    background-color: #2c826d;
+    background-color: #2C5282;
     color: #FFFFFF;
 }
 footer>a{
